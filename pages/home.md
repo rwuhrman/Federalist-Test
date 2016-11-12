@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-hero-image: /assets/img/feature-background.jpg
+hero-image: /assets/img/skyline.png
 hero-text: "Unified Shared Services Management"
 hero-button-text: Learn More >
 hero-button-link: /about/

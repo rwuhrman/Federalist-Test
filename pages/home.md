@@ -10,8 +10,6 @@ banner-text: GSA provides centralized procurement for the federal government, of
 banner-button-text: Learn more
 banner-button-link: /about/
 ---
-GSA helps keep the nation safe by providing tools, equipment, and non-tactical vehicles to the U.S. military, and providing state and local governments with law enforcement equipment, firefighting and rescue equipment, and disaster recovery products and services.
+The Unified Shared Services Management (USSM) office, residing in the General Services Administration (GSA), Office of Government-wide Policy (OGP), is the integration body for shared services across the Federal government. The organization was chartered by the Office of Management and Budget (OMB) on October 22, 2015 and is responsible for managing the shared services ecosystem and collaborating across functions and the provider and customer landscapes to improve shared service delivery and increase agency adoption. The initial shared services focus areas for the USSM are financial management (FM), human resources (HR), acquisition, information technology (IT), and grants management. USSM’s strategic direction is to drive shared services forward by establishing common standards and leveraging best practices in service delivery and performance.
 
-Only one percent of GSA’s total budget is provided through direct congressional appropriations. The majority of GSA's operating costs are recovered through the products and services it provides.
-
-GSA leads the way in green building design, construction, retrofit and sustainable operations and maintenance. GSA is building a 21st century government that procures and manages technology solutions in smart, secure, and affordable ways. It supports reductions in federal government real estate costs and increases in workplace efficiencies by strategically integrating space, people, and technology solutions customized to different workplace needs.
+Visit our website frequently to stay current on new initiatives and tools designed to better service the shared services ecosystem.

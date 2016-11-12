@@ -3,7 +3,7 @@ layout: home
 permalink: /
 hero-image: /assets/img/feature-background.jpg
 hero-text: "Unified Shared Services Management"
-hero-button-text: Hey, me too!
+hero-button-text: Learn More >
 hero-button-link: /about/
 banner-heading: In order to improve the way government delivers services externally, we need to aggressively reform the way government delivers service internally - Cross Agency Priority Goal for Shared Services
 banner-text: GSA provides centralized procurement for the federal government, offering billions of dollars worth of products, services, and facilities that federal agencies need to serve the public.

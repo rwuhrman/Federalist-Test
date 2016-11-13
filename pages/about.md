@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/img/skyline.png
+image: 
 ---
 
 ## About GSA

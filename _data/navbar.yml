@@ -12,7 +12,7 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: Work
+        text: Work2
         href: pages/projects.md
         permalink: /projects/
         show_in_menu: true

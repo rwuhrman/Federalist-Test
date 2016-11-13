@@ -6,13 +6,19 @@ assigned:
         show_in_menu: false
         show_in_footer: false
     -
-        text: About
+        text: About USSM
         href: pages/about.md
         permalink: /about/
         show_in_menu: true
         show_in_footer: false
     -
-        text: Work2
+        text: Initiatives
+        href: pages/about.md
+        permalink: /about/
+        show_in_menu: true
+        show_in_footer: false
+    -
+        text: Governance
         href: pages/projects.md
         permalink: /projects/
         show_in_menu: true

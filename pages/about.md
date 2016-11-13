@@ -5,13 +5,19 @@ permalink: /about/
 image: 
 ---
 
-## About GSA
+## About Unified Shared Services Management
 
-GSA provides workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, telecommunications, and information technology to government organizations and the military. GSA policies promote management best practices and efficient government operations.
+USSM was stood up in October 2015 to oversee the current shared service ecosystem and provide a consistent long-term strategy for the expansion of administrative shared services. It serves as an integration body, collaborating across functions and the provider and customer landscapes to improve shared service delivery, increase agency adoption, and resolve concerns or disagreements between customers and providers.
+
+USSM works in partnership with the shared services community to achieve the following:
+
+### Vision
+
+To enable the delivery of high-quality, high-value shared services that improve performance and efficiency throughout government.
 
 ### Mission
 
-The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people.
+To create a shared services ecosystem that harmonizes good government, service consumer satisfaction, and service provider entrepreneurship and innovation.
 
 ### History
 

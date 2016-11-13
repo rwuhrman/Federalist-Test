@@ -18,13 +18,13 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: Initiatives
+        text: Governance
         href: pages/about.md
         permalink: /about/
         show_in_menu: true
         show_in_footer: false
     -
-        text: Governance
+        text: Contact Us
         href: pages/projects.md
         permalink: /projects/
         show_in_menu: true

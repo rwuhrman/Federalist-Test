@@ -17,14 +17,14 @@
 }
 .hero-content {
   background-color: transparentize($text-color, .6);
-  border: solid;
+  border: 0px;
   bottom: 20px;
   left: 50%;
   margin-left: -35%;
   padding-top: 20px;
   position: absolute;
   text-align: center;
-  width: 100%;
+  width: 70%;
 }
 .hero-content h1 {
   color: white;

@@ -15,7 +15,7 @@ To enable the delivery of high-quality, high-value shared services that improve 
 ### Mission
 To create a shared services ecosystem that harmonizes good government, service consumer satisfaction, and service provider entrepreneurship and innovation.
 
-### Five Strategic Goals
+Five Strategic Goals
 1. Improve shared services efficiency, economies of scale, marketplace health and sustainability.
  
 2. Increase shared services adoptions and satisfaction among executive agencies.

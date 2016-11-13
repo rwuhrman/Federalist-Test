@@ -18,6 +18,12 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
+        text: Initiatives
+        href: pages/about.md
+        permalink: /about/
+        show_in_menu: true
+        show_in_footer: false
+    -
         text: Governance
         href: pages/projects.md
         permalink: /projects/

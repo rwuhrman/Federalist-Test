@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 hero-image: /assets/img/frontpageheader.png
-hero-text: "In order to improve the way government delivers services externally, we need to aggressively reform the way government delivers service internally - Cross Agency Priority Goal for Shared Services"
+hero-text: 'In order to improve the way government delivers services externally, we need to aggressively reform the way government delivers service internally' - Cross Agency Priority Goal for Shared Services"
 hero-button-text: Learn More >
 hero-button-link: /about/
 banner-heading: test 

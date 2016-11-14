@@ -23,6 +23,25 @@ layout: base
     <h2>Initiatives</h2>
     {% include projects.html %}
   </div>
+  
+  <form method=post action="https://public.govdelivery.com/accounts/USGSA/subscribers/qualify">
+   
+    <input name="utf8" type="hidden" value="✓" />   
+   <span style="font-size:14px;">To sign up for updates or to access your subscriber preferences, please enter your contact information below.</span>   
+  <input name="utf8" type="hidden" value="✓" /><input type="hidden" name="authenticity_token" value="OmpVuYESHv+SccYMCRNJaxbCmTGERGw/OXWPv59ppg4hziQG+lh7WkbDhRakuEIIxGozs5kG+33oX8JMVCYPtA==" />
+
+<input type="hidden" name="topic_id" id="topic_id" value="USGSA_512" />
+
+   <fieldset style="padding:10px;margin:0 auto;border:2px solid #2c4f7e;">
+
+   <input type="text" name="email" id="email" class="long" style="width:100%;" />
+    <input type="submit" name="commit" value="Submit" class="form_button" />
+
+<label for="email"><img class="required" src="https://public.govdelivery.com/static/required.gif" alt="Required" /><span style="font-size:14px;">Email Address</span></label><br/>
+
+   </fieldset>
+     </form>  
+  
 </section>
 
 {% if page.banner-heading %}

@@ -40,8 +40,7 @@ layout: base
 <section class="banner tagline">
   <div class="usa-grid tagline">
     <div class="usa-width-one-whole usa-end-row tagline">
-      <img src="http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/rwuhrman/Federalist-Test/assets/img/m3.png">
-      
+      {% include projects.html %}
       {{ content }}
       <div class="center-content tagling">
         {% if page.content-button-link %}
@@ -54,8 +53,9 @@ layout: base
 
 <section>
   <div class="usa-grid">
-    <h2>Initiatives</h2>
-    {% include projects.html %}
+  <h2>Initiatives</h2>
+      <img src="http://federalist.18f.gov.s3-website-us-east-1.amazonaws.com/site/rwuhrman/Federalist-Test/assets/img/m3.png">
+    
   </div>
   
   

@@ -20,7 +20,7 @@ layout: base
 
 
 {% if page.banner-heading %}
-<section class="banner ">
+<section class="banner">
   <div class="usa-grid">
     <div class="usa-width-one-whole usa-end-row">
       <h2>{{ page.banner-heading }}</h2>
@@ -40,10 +40,10 @@ layout: base
 
 
 <section class="content tagline">
-  <div class="usa-grid">
-    <div class="usa-width-one-whole usa-end-row">
+  <div class="usa-grid tagline">
+    <div class="usa-width-one-whole usa-end-row tagline">
       {{ content }}
-      <div class="center-content">
+      <div class="center-content tagling">
         {% if page.content-button-link %}
           <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
         {% endif %}

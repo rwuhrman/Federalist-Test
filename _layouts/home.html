@@ -20,7 +20,7 @@ layout: base
 
 
 {% if page.banner-heading %}
-<section class="banner tagline">
+<section class="banner ">
   <div class="usa-grid">
     <div class="usa-width-one-whole usa-end-row">
       <h2>{{ page.banner-heading }}</h2>
@@ -38,6 +38,20 @@ layout: base
 {% endif %}
 
 
+
+<section class="content tagline">
+  <div class="usa-grid">
+    <div class="usa-width-one-whole usa-end-row">
+      {{ content }}
+      <div class="center-content">
+        {% if page.content-button-link %}
+          <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
+        {% endif %}
+      </div>  
+    </div>
+  </div>
+</section>
+
 <section>
   <div class="usa-grid">
     <h2>Initiatives</h2>
@@ -50,17 +64,5 @@ layout: base
 
 
 
-<section class="content">
-  <div class="usa-grid">
-    <div class="usa-width-one-whole usa-end-row">
-      {{ content }}
-      <div class="center-content">
-        {% if page.content-button-link %}
-          <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
-        {% endif %}
-      </div>  
-    </div>
-  </div>
-</section>
 
 {% include contact.html %}

@@ -6,6 +6,18 @@
     {% endif %}
   {% endfor %}
 
+    
+ <form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/USGSA/subscribers/qualify" accept-charset="UTF-8" method="post" target="_blank"><input name="utf8" type="hidden" value="✓" />   
+   <span style="font-size:14px;">To sign up for updates or to access your subscriber preferences, please enter your contact information below.</span>   
+  
+   <fieldset style="padding:10px;margin:0 auto;border:2px solid #2c4f7e;">
+
+   <input type="text" name="email" id="email" class="long" style="width:100%;" />
+    <input type="submit" name="commit" value="Submit" class="form_button" />
+
+   </fieldset>
+     </form>   
+    
   <form id="contact" action="{{ f.url }}" method="POST">
     <fieldset>
       <legend>{{ f.heading }}</legend>

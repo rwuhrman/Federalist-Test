@@ -1,6 +1,12 @@
 <section class="banner tagline">
   <div class="usa-grid">
-  
+  {% for form in site.forms %}
+    {% if form.type == 'newsletter' %}
+      {% assign f = form %}
+    {% endif %}
+  {% endfor %}
+
+
       
   <form method=post action="https://public.govdelivery.com/accounts/USGSA/subscribers/qualify">
    

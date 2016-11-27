@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: general
 title: TestPage
 permalink: /testpage/
 image: 

@@ -13,8 +13,8 @@ assigned:
         show_in_footer: false
     -
         text: Initiatives
-        href: pages/about.md
-        permalink: /about/
+        href: pages/initiatives.md
+        permalink: /initiatives/
         show_in_menu: true
         show_in_footer: false
     -

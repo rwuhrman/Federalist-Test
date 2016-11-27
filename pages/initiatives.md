@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Initiatives
-permalink: /inititatives/
+permalink: /initiatives/
 image: 
 ---
 ## USSM Initiatives

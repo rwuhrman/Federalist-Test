@@ -19,8 +19,8 @@ assigned:
         show_in_footer: false
     -
         text: Governance
-        href: pages/about.md
-        permalink: /about/
+        href: pages/governance.md
+        permalink: /governance/
         show_in_menu: true
         show_in_footer: false
     -

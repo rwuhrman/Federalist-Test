@@ -1,5 +1,5 @@
 ---
-layout: pagenew
+layout: page
 title: About
 permalink: /about/
 image: 
